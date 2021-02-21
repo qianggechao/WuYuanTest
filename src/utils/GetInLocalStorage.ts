@@ -1,1 +1,1 @@
-export const GetInLocalStorage = (key: string) => localStorage.getItem(key) ?? []
+export const GetInLocalStorage =  (key: string) => localStorage.getItem(key) ?? []
